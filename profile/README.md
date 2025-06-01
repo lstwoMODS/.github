@@ -2,6 +2,10 @@
 
 lstwoMODS is a set of mods for different games, originally aiming to recreate Azzamods for Wobbly Life. All mods are FOSS (Free and Open Source Software).
 
+# Links
+
+Discord (suggest features, get support, etc.): https://discord.gg/cKWcxccQXU
+
 # Installation
 
 ## Quickest and Simplest
