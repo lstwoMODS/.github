@@ -1,6 +1,6 @@
 # lstwoMODS
 
-lstwoMODS is a set of mods for different games, originally aiming to recreate Azzamods for Wobbly Life. All mods are FOSS (Free and Open Source Software).
+lstwoMODS is a set of mods for different games, originally aiming to recreate Azzamods for Wobbly Life. All mods are FOSS (Free and Open Source Software). The menu can be opened with F2.
 
 # Links
 
