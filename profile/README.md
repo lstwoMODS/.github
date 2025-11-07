@@ -10,7 +10,7 @@ Discord (suggest features, get support, etc.): https://discord.gg/cKWcxccQXU
 
 ## Quickest and Simplest
 
-The README for the mod should contain a `mods.lstwo.net/download.php` link that will give you a `.zip` file after a few seconds. To install it, extract the `.zip` file and drag the game's `.exe` file onto the `.bat` file.
+The README for the mod should contain a `mods.lstwo.net/download.php` link that will give you a `.zip` file after a few seconds. For example https://mods.lstwo.net/download.php?game=rubber_band_games.wobbly_life for lstwoMODS Wobbly Life. To install it, extract the `.zip` file and drag the game's `.exe` file onto the `.bat` file.
 
 Alternatively you can make the `mods.lstwo.net/download.php` link manually for any mods you can install using the [lstwoMODS Installer](https://github.com/lstwoMODS/lstwoMODSInstaller) using the game id and mod ids. You can find the game id by going to the [lstwoMODS Installer repository](https://github.com/lstwoMODS/lstwoMODSInstaller) and opening the folder `data` and `games`. The folder with the game name is the game id. For any additional mods you need to get their mod ids from the mods folder inside the game folder. Then you can create the url by doing `https://mods.lstwo.net/download.php?game=game id&include=mod id,another mod id` replacing the game and mod ids.
 
